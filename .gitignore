@@ -1,0 +1,10 @@
+/composer.phar
+
+/vendor/
+/composer.lock
+/.project
+/.settings
+/.buildpath
+/tests/data/dropboxcreds.config.php
+/tests/data/s3creds.config.php
+/tests/data/sftpcreds.config.php
